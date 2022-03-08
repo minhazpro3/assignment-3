@@ -1,0 +1,61 @@
+/* style header  */
+/* navigation bar style */
+header{
+    background-color: #264653;
+}
+.honda{
+    font-family: 'Poppins', sans-serif;
+}
+.purchase{
+    background-color:#E76F51;
+}
+.purchase a{
+    text-decoration: none;
+
+}
+.bikes{
+    font-family: 'Poppins', sans-serif;
+}
+.collection{
+    font-family: 'Poppins', sans-serif;
+   color: #E76F51;
+   font-weight: 600;
+}
+
+ /* honda grayscale part */
+.images{
+    filter: grayscale(100%);
+}
+/* happy clients part  */
+.happy{
+    font-family: 'Poppins', sans-serif;
+}
+.clients{
+    color: #E76F51;
+}
+.star i{
+    color: #E77C40;
+}
+.regina{
+    font-family: 'Poppins', sans-serif;
+    color: #23A6F0;
+}
+.banker{
+    font-family: 'Poppins', sans-serif;
+}
+/* Frequently Asked part  */
+.frequently{
+    font-family: 'Poppins', sans-serif;
+}
+.questions{
+    color: #E76F51;;
+}
+/* bonus part  */
+.cbr500r{
+    color: #E76F51;
+}
+/* footer part  */
+.all-night{
+    font-family: 'Poppins', sans-serif;
+}
+
